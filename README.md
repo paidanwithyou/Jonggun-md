@@ -52,7 +52,7 @@ Edit file `src/config.js` sesuai kebutuhan:
 
 ```js
 // Ganti dengan nomor WhatsApp owner (format internasional tanpa +)
-OWNER: ['628123456789'],
+OWNER: ['62882016327769'],
 
 // Prefix perintah bot
 PREFIX: '!',
